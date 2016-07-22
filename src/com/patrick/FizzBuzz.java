@@ -64,7 +64,7 @@ public class FizzBuzz
 			//returns i if what it is checking is true
 			//Returns fbb if it is false
 			//bc it is in a print function it is returning those values to the print function
-		}
+//		}
 					
 		
 //			for (int i = 110; i > 0; i--)
